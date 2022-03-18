@@ -1,0 +1,35 @@
+3rd Year / 1st Semester (6  subjects)
+-IT 005	Integrative Programming and Technologies
+-IT 006	Networking 1
+-IT 003	Advanced Database Systems
+-IT 009	Systems Integration and Architecture 1
+-ITELEC 001	IT Elective 1
+-GEE 002	General Education Elective 2
+
+3rd Year / 2nd Semester (7  subjects)
+-IT 401	Data Mining and Warehousing
+-CS 409	Mobile Computing
+-IT 001	Information Assurance and Security 1
+-ITE 013	Application Development and Emerging Technologies
+-IT 007	Networking 2
+-FELEC 003	Prof. Elective 3
+-ITELEC 002	IT Elective 2
+
+
+3rd Year / Summer (3 subjects)
+-IT 030	Data Analytics
+-IT 304	Capstone Project 1
+-ITELEC 003	IT Elective 3
+
+4th Year / 1st Semester (7 subjects)
+-ITE 015	Social and Professional Issues
+-IT 008	Systems Administration and Maintenance
+-IT 002	Information Assurance and Security 2
+-IT 010	Systems Integration and Architecture 2
+-GEE 003	General Education Elective 3
+-FELEC 004	Prof. Elective 4
+-ITELEC 004	IT Elective 4
+
+4th Year / 2nd Semester (2 subjects)
+-IT 402	Internship in Computing
+-IT 400	Capstone Project 2
